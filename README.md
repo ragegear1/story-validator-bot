@@ -23,7 +23,7 @@ This repository contains a Telegram bot that helps users monitor their Story nod
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/story-validator-bot.git
+   git clone https://github.com/ragegear1/story-validator-bot.git
    cd story-validator-bot
    ```
 
